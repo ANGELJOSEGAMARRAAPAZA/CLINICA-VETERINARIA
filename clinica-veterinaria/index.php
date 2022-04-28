@@ -48,10 +48,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 <body>
     <center>
-    <h2 style="color:white;">CLINICA VETERINARIA</h2>
+    <h2 style="color:saddlebrown;">CLINICA VETERINARIA</h2>
     </center>
     <div class=" w3l-login-form">
-        <h2>Login </h2>
+        <h3>Login </h3>
     <form action="login.php" method="post">
 
             <div class=" w3l-form-group">
@@ -75,14 +75,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     
         </form>
  
-    </div>
-       <footer>
-          <div class="pull-right">
-                             <a href="https://sistemasenoferta.blogspot.com/">veterinaria</a>
-          </div>
-          <div class="clearfix"></div>
-        </footer>
-
+   
 
 
     <script src="plugins/jQuery/jQuery-2.1.4.min.js"></script>

@@ -109,7 +109,7 @@ $twitter="twitter";
         <div class="intro-lead-in"><?php echo $direccion;?>
  </div>
         <div class="intro-heading text-uppercase"><?php echo $titulo;?></div>
-        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Servicios  a ofertar:</a>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Servicios a ofertar:</a>
       </div>
     </div>
   </header>
@@ -159,6 +159,7 @@ $twitter="twitter";
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">Mision empresarial</h2>
           <h3 class="section-subheading text-muted"><?php echo $mision;?></h3>
+          <h6><ol>Brindar a los Pacientes y a sus Familiares servicios dignos con calidez y excelencia para otorgar los mejores tratamientos médicos hospitalarios, adquiriendo habilidades, destrezas y uso de nuevas tecnologías en la Práctica de la Medicina Veterinaria a los estudiantes de Licenciatura y Posgrado.<ol></h6>
         </div>
       </div>
 
@@ -216,6 +217,7 @@ $twitter="twitter";
         <div class="col-lg-12 text-center">
           <h2 class="section-heading text-uppercase">Vision empresarial</h2>
           <h3 class="section-subheading text-muted"><?php echo $vision;?></h3>
+          <h6><ol>Buscar la excelencia en la prevención, detección y curación de enfermedades en animales de compañía, aumentando el nivel de seguridad sanitaria en quienes conviven con ellos y hacerlo de forma sostenible, rentable, profesional y ética; así como mejorar la relación afectiva entre las mascotas y sus propietarios <ol> </h6>
         </div>
       </div>
 
@@ -295,7 +297,7 @@ $twitter="twitter";
     <div class="container">
       <div class="row align-items-center">
         <div class="col-md-4">
-          <span class="copyright">Copyright &copy;<?php echo $titulo;?>   2020</span>
+          <span class="copyright">Copyright &copy;<?php echo $titulo;?>   2022</span>
         </div>
         <div class="col-md-4">
           <ul class="list-inline social-buttons">
